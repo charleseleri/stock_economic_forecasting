@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+sqlite3
+matplotlib
+seaborn
+plotly
+streamlit
+statsmodels
+selenium
+beautifulsoup4
